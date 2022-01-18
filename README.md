@@ -1,5 +1,5 @@
 # OSScheduler
-Simple Scheduler  is developed for OS in C
+Simple Scheduler  is developed for OS in C++
 
 --------------------------------------------------------------------------------
 Name      :- Darshan Kapadiya
